@@ -1,0 +1,15 @@
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\bin\Debug\KillTag.exe.manifest
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\bin\Debug\KillTag.application
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\bin\Debug\KillTag.exe
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\bin\Debug\KillTag.pdb
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\bin\Debug\MercuryAPI.dll
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\bin\Debug\LLRP.dll
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\KillTag.Form1.resources
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\KillTag.Properties.Resources.resources
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\KillTag.exe.manifest
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\KillTag.application
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\KillTag.exe
+c:\documents and settings\rjlr\my documents\visual studio 2010\Projects\KillTag\KillTag\obj\x86\Debug\KillTag.pdb
